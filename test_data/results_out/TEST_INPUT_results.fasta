@@ -1,0 +1,12 @@
+>16|72096191|C|T|DHX38|stop_gained|HIGH|ENST00000268482.7|c.34C>T|p.Arg12*|34|12|NA|NA|NA|NA|0.0230769|3|123|0|450|TEST|RNA|NA|coding|protein_coding|protein_coding|VCFtranslate-1.0,ensembl-92,analysis-12-05-2023-16:01|ORF1[1-36]|NA
+MGDTSEDASIH
+>19|7637182|G|GA|STXBP2|frameshift_variant|HIGH|ENST00000441779.6|c.33_34insA|p.Glu12fs|34|12|NA|NA|NA|NA|0.00653595|1|146|0|50|TEST|RNA|NA|coding|protein_coding|protein_coding|VCFtranslate-1.0,ensembl-92,analysis-12-05-2023-16:01|ORF1[1-159]|NA
+MAPSGLKAVVGRKNSERSYSECQEGWGVEGAYHGSPKHAHLVFLLQNVRYPG
+>19|17414687|A|G|BISPR|non_coding_transcript_exon_variant|MODIFIER|ENST00000635536.2|n.1028A>G|*>W|83|28|NA|NA|NA|NA|0.272727|12|17|0|3|TEST|RNA|NA|cdna|lincRNA|lincRNA|VCFtranslate-1.0,ensembl-92,analysis-12-05-2023-16:01|ORF1[946-1032]|NA
+MPVIPALWEAEAGGSLEVRSSRPAWPTW
+>19|17414687|A|G|BISPR|non_coding_transcript_exon_variant|MODIFIER|ENST00000635536.2|n.1028A>G|I>M|3|1|NA|NA|NA|NA|0.272727|12|17|0|3|TEST|RNA|NA|cdna|lincRNA|lincRNA|VCFtranslate-1.0,ensembl-92,analysis-12-05-2023-16:01|ORF2[1026-1049]|NA
+MVKPRLY
+>2|88978935|C|T|IGKV3-7|splice_donor_variant&intron_variant|HIGH|ENST00000390247.2|c.49+1G>A|W>*|48|16|NA|NA|NA|NA|2.29069e-05|1|6|0|8|TEST|RNA|NA|cdna|IG_V_gene|IG_V_gene|VCFtranslate-1.0,ensembl-92,analysis-12-05-2023-16:01|ORF1[3-50]|IntronInclusion[intron:1-2]
+MSLPAALPSRAHINA
+>2|88978935|C|T|IGKV3-7|splice_donor_variant&intron_variant|HIGH|ENST00000390247.2|c.49+1G>A|G>D|8|3|NA|NA|NA|NA|2.29069e-05|1|6|0|8|TEST|RNA|NA|cdna|IG_V_gene|IG_V_gene|VCFtranslate-1.0,ensembl-92,analysis-12-05-2023-16:01|ORF2[43-120]|IntronInclusion[intron:1-2],IntronInclusion[intron:1-2]
+MPDEGNMRWFCTSVKTPATSAQQEI

@@ -1,0 +1,117 @@
+number of unique mutations = 4
+note: these are unique genomic mutation sites, so the same mutation for multiple transcripts = 1 mutation (RNA+exome combined)
+
+
+with these mutation called by:
+4
+
+
+with the mutation classes distributed like:
+frameshift_variant 1
+non_coding_transcript_exon_variant 1
+splice_donor_variant&intron_variant 1
+stop_gained 1
+note: mutation sites with overlapping genes/transcripts can have multiple classes, which are combined with +++
+
+
+with the mutation types distributed like:
+substitution 3
+insertion 1
+note: mutation sites with overlapping genes/transcripts can have multiple types, which are combined with +++
+note: 1 genomic position can have multiple different mutations, e.g. G>A and GG>AA with different amino acid changes
+
+
+number of affected genes = 4
+
+note: one mutation can affect multiple transcripts/genes (genomic overlaps)
+note: one transcript/gene can have multiple mutations
+with the biotype distributed like:
+IG_V_gene 1
+lincRNA 1
+protein_coding 2
+
+
+number of affected transcripts = 4
+
+with the biotype distributed like:
+IG_V_gene 1
+lincRNA 1
+protein_coding 2
+number of unique mutations = 4
+note: these are unique genomic mutation sites, so the same mutation for multiple transcripts = 1 mutation (RNA+exome combined)
+
+
+with these mutation called by:
+4
+
+
+with the mutation classes distributed like:
+frameshift_variant 1
+non_coding_transcript_exon_variant 1
+splice_donor_variant&intron_variant 1
+stop_gained 1
+note: mutation sites with overlapping genes/transcripts can have multiple classes, which are combined with +++
+
+
+with the mutation types distributed like:
+substitution 3
+insertion 1
+note: mutation sites with overlapping genes/transcripts can have multiple types, which are combined with +++
+note: 1 genomic position can have multiple different mutations, e.g. G>A and GG>AA with different amino acid changes
+
+
+number of affected genes = 4
+
+note: one mutation can affect multiple transcripts/genes (genomic overlaps)
+note: one transcript/gene can have multiple mutations
+with the biotype distributed like:
+IG_V_gene 1
+lincRNA 1
+protein_coding 2
+
+
+number of affected transcripts = 4
+
+with the biotype distributed like:
+IG_V_gene 1
+lincRNA 1
+protein_coding 2
+number of unique mutations = 4
+note: these are unique genomic mutation sites, so the same mutation for multiple transcripts = 1 mutation (RNA+exome combined)
+
+
+with these mutation called by:
+4
+
+
+with the mutation classes distributed like:
+frameshift_variant 1
+non_coding_transcript_exon_variant 1
+splice_donor_variant&intron_variant 1
+stop_gained 1
+note: mutation sites with overlapping genes/transcripts can have multiple classes, which are combined with +++
+
+
+with the mutation types distributed like:
+substitution 3
+insertion 1
+note: mutation sites with overlapping genes/transcripts can have multiple types, which are combined with +++
+note: 1 genomic position can have multiple different mutations, e.g. G>A and GG>AA with different amino acid changes
+
+
+number of affected genes = 4
+
+note: one mutation can affect multiple transcripts/genes (genomic overlaps)
+note: one transcript/gene can have multiple mutations
+with the biotype distributed like:
+IG_V_gene 1
+lincRNA 1
+protein_coding 2
+
+
+number of affected transcripts = 4
+
+with the biotype distributed like:
+IG_V_gene 1
+lincRNA 1
+protein_coding 2
