@@ -23,6 +23,7 @@ registerDoParallel(cores = 2)
 # Init
 organism <- "human"
 ensemblVersion <- 92
+debugMode <- F
 
 # set versions
 release.version <- "VCFtranslate-1.0"
